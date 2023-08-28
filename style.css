@@ -37,7 +37,7 @@ button {
 button:hover {
   background-color: purple;
   transform:translate;
-  transition:2s;
+  transition:1.5s;
 }
 
 #result {
