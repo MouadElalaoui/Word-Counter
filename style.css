@@ -35,7 +35,10 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+ background-color: purple;
+    width:20%;
+    transform:translate;
+    transition:2s;
 }
 
 #result {
