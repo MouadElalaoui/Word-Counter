@@ -1,2 +1,1 @@
-# Word-Counter
-# Word-Counter
+I hope this site helped YOU!
