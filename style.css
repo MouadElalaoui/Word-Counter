@@ -37,8 +37,9 @@ button {
 button:hover {
   background-color: purple;
   transform:translate;
-  transition:1.5s;
+  transition:2s;
 }
+
 
 #result {
     font-weight: bold;
