@@ -35,10 +35,10 @@ button {
 }
 
 button:hover {
- background-color: purple;
-    width:20%;
-    transform:translate;
-    transition:2s;
+  background-color: purple;
+  width:20%;
+  transform:translate;
+  transition:2s;
 }
 
 #result {
